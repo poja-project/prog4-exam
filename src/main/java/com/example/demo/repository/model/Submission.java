@@ -13,8 +13,8 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Submission {
-    @Id private UUID id;
-    private String email;
-    private String filename;
-    private LocalDateTime createdAt;
+  @Id private UUID id;
+  private String email;
+  private String filename;
+  private LocalDateTime createdAt;
 }

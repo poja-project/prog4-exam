@@ -1,4 +1,3 @@
 package com.example.demo.service.event;
 
-public class SubmissionService {
-}
+public class SubmissionService {}
